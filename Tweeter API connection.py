@@ -12,10 +12,10 @@ import pandas as pd
 # In[2]:
 
 
-consumer_key= 'wQm9UJP2FpxQBqOmBBIPjCP0X'
-consumer_secret= '2PDEIoZ3qIA2sYZyG2g5XHiLvOQbxRKpMbmJixGmXdrL1W8Ju0'
-access_token= '1171806772111269888-yoScVhhG18tUVcYWH8PkuMKtJxGsuj'
-access_token_secret= 'kj04cXv5AVsyRisKvGfV740QK6jlLzAMkHkWSWGpJWiTv'
+consumer_key= ''
+consumer_secret= ''
+access_token= ''
+access_token_secret= ''
 
 
 # In[3]:
